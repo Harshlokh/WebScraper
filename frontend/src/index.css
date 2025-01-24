@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.appcenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
